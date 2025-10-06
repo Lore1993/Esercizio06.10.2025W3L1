@@ -10,7 +10,7 @@ const compli = function (str1,str2) {
 
   console.log(final)
 } 
-console.log(compli("Caro" , "razzo"))
+console.log(compli("Dado" , "lazo"))
 
 
 
@@ -61,6 +61,7 @@ console.log(red)
 /* ESERCIZIO 6 (map)
   Scrivi una funzione che, dato un array di soli numeri e un numero n come parametri, ritorni un secondo array con tutti i valori del precedente incrementati di n
 */
+
 
 /* ESERCIZIO 7 (map)
   Scrivi una funzione che, dato un array di stringhe, ritorni un nuovo array contenente le lunghezze delle rispettive stringhe dell'array di partenza
